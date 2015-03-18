@@ -1,5 +1,3 @@
-from [https://code.google.com/p/bigdecimal/](https://code.google.com/p/bigdecimal/)
-
 Disclaimer: Any of you, happen to find a bug and fix it. Please, send the fix here.
 
 Its the only thing the community ask. As always.
